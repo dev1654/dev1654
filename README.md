@@ -121,7 +121,7 @@ Service management desktop application with full CRUD operations for vehicle and
 
 ![Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev1654&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=AAFF45&icon_color=AAFF45&text_color=C0C0CC&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev1654&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=AAFF45&text_color=C0C0CC&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev1654&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=AAFF45&text_color=C0C0CC&langs_count=8&include_all_commits=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dev1654&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=AAFF45&ring=AAFF45&fire=FF6B35&currStreakLabel=AAFF45&sideLabels=C0C0CC&dates=888899)
 
