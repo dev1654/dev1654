@@ -9,9 +9,9 @@
 ╚═════╝ ╚══════╝  ╚═══╝      ╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝
 ```
 
-### Full Stack Developer · MERN Stack · Toronto, Canada 🍁
+### Full Stack Developer · MERN Stack · Android · Toronto, Canada 🍁
 
-*Building scalable web apps that solve real problems.*
+*Building scalable web apps and mobile experiences that solve real problems.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-devpatel878-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/devpatel878)
 [![Portfolio](https://img.shields.io/badge/Portfolio-devpatel.dev-AAFF45?style=flat&logo=vercel&logoColor=black)](https://devpatel.dev)
@@ -29,27 +29,28 @@ const dev = {
   name:       "Dev Patel",
   location:   "Toronto, Ontario 🇨🇦",
   education:  "PG Diploma — Information Technology Solutions @ Humber Polytechnic (2024–2026)",
-  role:       "Full Stack Developer (MERN Stack)",
+  stack:      ["MongoDB", "Express.js", "React.js", "Node.js", "Kotlin", "Java"],
   experience: ["Full Stack Intern @ Stackss (6 months)", "Building in public since 2022"],
   currently:  ["Graduating Apr 2026", "Open to Full Stack & Software Dev roles"],
   funFact:    "I built an EV charging locator before I owned a car 🚗⚡"
 };
 ```
 
-I am a full stack developer passionate about building **performant, user-focused web applications**. My core stack is MERN (MongoDB, Express, React, Node.js) with experience in cloud platforms, authentication systems, and real-time features. I enjoy tackling real-world problems — from EV infrastructure to real estate platforms.
+I am a full stack developer passionate about building **performant, user-focused applications** across web and mobile. My core stack is MERN (MongoDB, Express, React, Node.js) with growing experience in Android development using Kotlin. I enjoy solving real-world problems — from EV infrastructure to real estate platforms to art discovery apps.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+**Frontend & Mobile**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Backend**
 
@@ -73,6 +74,7 @@ I am a full stack developer passionate about building **performant, user-focused
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 
 ---
 
@@ -81,9 +83,9 @@ I am a full stack developer passionate about building **performant, user-focused
 ### ⚡ [ChargeIT](https://github.com/dev1654/ChargeIT) — EV Charging Station Locator
 > **Live:** [chargeit-r4bp.onrender.com](https://chargeit-r4bp.onrender.com)
 
-A full-stack web platform for discovering EV charging stations — browse amenities, check real-time availability, leave reviews, and manage favourites. Built in collaboration with a 3-person team.
+A full-stack web platform for discovering EV charging stations — browse amenities, check availability, leave reviews, and manage favourites. Built with a 3-person team using Git workflows and agile practices.
 
-`Node.js` `Express.js` `MongoDB` `Firebase Auth` `Handlebars` `JavaScript` `Python`
+`Node.js` `Express.js` `MongoDB` `Firebase` `Handlebars` `JavaScript` `Python`
 
 ![Stars](https://img.shields.io/github/stars/dev1654/ChargeIT?style=flat&logo=github)
 ![Contributors](https://img.shields.io/github/contributors/dev1654/ChargeIT?style=flat&color=AAFF45)
@@ -91,27 +93,31 @@ A full-stack web platform for discovering EV charging stations — browse amenit
 ---
 
 ### 🏠 [IndiEstate](https://github.com/dev1654/mern-estate) — Full-Stack Real Estate Platform
-> Production-ready real estate marketplace for India's major cities
 
-Feature-rich property platform with WhatsApp-style messaging, auto-generated avatars, EMI calculator, reviews & ratings, favorites, and advanced search filters. Built with performance and security in mind.
+Production-ready real estate marketplace for India's major cities — WhatsApp-style messaging, auto-generated avatars, EMI calculator, reviews & ratings, favorites, and advanced search. 25 seed listings across Mumbai, Delhi, Bangalore, Hyderabad & more.
 
-**Key Highlights:**
-- 🔐 Email/Password + Google OAuth (Firebase) with JWT in HTTP-only cookies
-- 💬 Real-time-style messaging with unread badges, message bubbles & read receipts
-- 🧮 Mortgage/EMI calculator with interactive sliders
-- 🏙️ 25 seed listings across Mumbai, Delhi, Bangalore, Hyderabad & more
-- 🛡️ Helmet, CORS, rate limiting (200 req/15 min), response compression
+**Highlights:** Google OAuth + JWT auth · Real-time-style messaging with unread badges · Mortgage/EMI calculator · Helmet + rate limiting security
 
-`React 18` `Vite` `Redux Toolkit` `TanStack Query` `Node.js` `Express` `MongoDB` `Firebase` `JWT` `Tailwind CSS`
+`React 18` `Vite` `Redux Toolkit` `TanStack Query` `Node.js` `Express` `MongoDB` `Firebase` `Tailwind CSS`
 
 ---
 
-### 🚗 Vehicle Maintenance System — Desktop Application
+### 🎨 [ArtFinder](https://github.com/dev1654/ArtFinder) — Android Art Discovery App
+
+Native Android app for discovering and exploring artworks — search the Art Institute of Chicago API, view detailed artwork info, save favourites, and authenticate with a full login/register flow.
+
+**Highlights:** Retrofit + REST API integration · Google Maps SDK · Room DB for local persistence · Material Design 3 UI · Multi-activity architecture with bottom navigation
+
+`Kotlin` `Android` `Retrofit` `Room DB` `Google Maps SDK` `Firebase Auth` `Material Design 3`
+
+---
+
+### 🚗 [Vehicle Maintenance System](https://github.com/dev1654/vehicle-maintenance-system) — Desktop Service Management App
 > Academic Project · Humber Polytechnic (2025)
 
-Service management desktop application with full CRUD operations for vehicle and service records. Built with a layered architecture — JavaFX UI, Hibernate ORM, and Oracle DB with PL/SQL stored procedures.
+Role-based desktop application for automotive service centers — customer management, appointment scheduling, PDF invoice generation, inventory tracking with PL/SQL low-stock triggers, and full audit logging.
 
-`Java` `JavaFX` `Oracle DB` `Hibernate ORM` `PL/SQL`
+`Java` `JavaFX` `Oracle DB 23` `Hibernate ORM` `PL/SQL` `iText PDF` `Maven`
 
 ---
 
@@ -119,9 +125,9 @@ Service management desktop application with full CRUD operations for vehicle and
 
 <div align="center">
 
-![Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev1654&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=AAFF45&icon_color=AAFF45&text_color=C0C0CC&rank_icon=github)
+![Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev1654&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=AAFF45&icon_color=AAFF45&text_color=C0C0CC&rank_icon=github&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev1654&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=AAFF45&text_color=C0C0CC&langs_count=8&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev1654&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=AAFF45&text_color=C0C0CC&langs_count=8&count_private=true&include_all_commits=true&hide=dockerfile)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dev1654&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=AAFF45&ring=AAFF45&fire=FF6B35&currStreakLabel=AAFF45&sideLabels=C0C0CC&dates=888899)
 
@@ -132,15 +138,15 @@ Service management desktop application with full CRUD operations for vehicle and
 ## 🌱 Currently
 
 - 🎓 Finishing PG Diploma at **Humber Polytechnic** — graduating April 2026
-- 🔨 Building new projects to expand my portfolio
+- 📱 Expanding into **Android Development** with Kotlin
 - 📚 Deepening knowledge in **Machine Learning**, **Big Data**, and **Cloud Architecture**
-- 👀 **Open to Full Stack Developer roles in Toronto & Remote**
+- 👀 **Open to Full Stack & Software Developer roles in Toronto & Remote**
 
 ---
 
 ## 📫 Let's Connect
 
-I am actively looking for **Full Stack Developer / Software Developer** roles in Toronto.
+Actively looking for **Full Stack Developer / Software Developer** roles in Toronto.
 If you are hiring or know someone who is — let's talk!
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devpatel878)
@@ -151,6 +157,6 @@ If you are hiring or know someone who is — let's talk!
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dev1654&style=flat&color=AAFF45&label=Profile+Views" alt="profile views" />
-  
+
   *"Code is like humor. When you have to explain it, it's bad." — Cory House*
 </div>
