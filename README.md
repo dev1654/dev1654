@@ -14,7 +14,7 @@
 *Building scalable web apps and mobile experiences that solve real problems.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-devpatel878-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/devpatel878)
-[![Portfolio](https://img.shields.io/badge/Portfolio-devpatel.dev-AAFF45?style=flat&logo=vercel&logoColor=black)]([https://pateldev878.vercel.app](https://pateldev878.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-pateldev878.vercel.app-AAFF45?style=flat&logo=vercel&logoColor=black)](https://pateldev878.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-pateldev878@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pateldev878@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/dev1654?style=flat&logo=github&label=Follow&color=333)](https://github.com/dev1654)
 
@@ -151,7 +151,7 @@ If you are hiring or know someone who is — let's talk!
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devpatel878)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pateldev878@gmail.com)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-AAFF45?style=for-the-badge&logo=vercel&logoColor=black)](https://devpatel.dev)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-AAFF45?style=for-the-badge&logo=vercel&logoColor=black)](https://pateldev878.vercel.app/)
 
 ---
 
