@@ -14,7 +14,7 @@
 *Building scalable web apps and mobile experiences that solve real problems.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-devpatel878-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/devpatel878)
-[![Portfolio](https://img.shields.io/badge/Portfolio-devpatel.dev-AAFF45?style=flat&logo=vercel&logoColor=black)](https://devpatel.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-devpatel.dev-AAFF45?style=flat&logo=vercel&logoColor=black)]([https://devpatel.dev](https://pateldev878.vercel.app/))
 [![Email](https://img.shields.io/badge/Email-pateldev878@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pateldev878@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/dev1654?style=flat&logo=github&label=Follow&color=333)](https://github.com/dev1654)
 
